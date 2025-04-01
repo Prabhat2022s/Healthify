@@ -1,7 +1,4 @@
 # Healthify
-Healthify is a comprehensive health and fitness application designed to assist users in tracking and improving their overall well-being. The project offers a range of features aimed at promoting a healthier lifestyle.
-
-# Healthify
 
 Healthify is a comprehensive health and fitness application designed to assist users in tracking and improving their overall well-being. The project offers a range of features aimed at promoting a healthier lifestyle.
 
